@@ -1,0 +1,24 @@
+{
+  "empleados": [
+    {
+      "numeroEmp": 123,
+      "nombre": "Pedro",
+      "apellido": "Rodriguez"
+    },
+    {
+      "numeroEmp": 213,
+      "nombre": "Luis",
+      "apellido": "Fernández"
+    },
+    {
+      "numeroEmp": 321,
+      "nombre": "Lucía",
+      "apellido": "Dominguez"
+    },
+    {
+      "numeroEmp": 182,
+      "nombre": "Alfredo",
+      "apellido": "Gonzalez"
+    }
+  ]
+}
